@@ -24,6 +24,20 @@
           "value": "Welcome!"
         }
       ]
+    },
+    {
+      "id": "216ce153-cd1c-48fa-9a7e-80122cd0a556",
+      "description": "",
+      "strings": [
+        {
+          "variantId": "th5m",
+          "value": "Good bye"
+        },
+        {
+          "variantId": "GHXc",
+          "value": "Cye"
+        }
+      ]
     }
   ]
 }
