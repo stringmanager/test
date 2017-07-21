@@ -4,14 +4,23 @@
     {
       "id": "2fd58792-08bb-4947-b995-d424c9d9f875",
       "strings": [
-        "Hello World",
-        "Another variant"
+        {
+          "variantId": "bdfi",
+          "value": "Hello World"
+        },
+        {
+          "variantId": "rebs",
+          "value": "Another variant"
+        }
       ]
     },
     {
       "id": "be00d383-dd85-47d2-be1f-14ef27f6cdb1",
       "strings": [
-        "Welcome!"
+        {
+          "variantId": "asib",
+          "value": "Welcome!"
+        }
       ]
     }
   ]
