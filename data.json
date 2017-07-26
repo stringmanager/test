@@ -13,6 +13,24 @@
           "variantId": "rebs",
           "value": "Another variant"
         }
+      ],
+      "attachments": [
+        {
+          "id": "947e87f6-4bc3-4504-8e72-d416c1f6f2fd",
+          "color": "",
+          "title": "",
+          "title_link": "",
+          "text": "",
+          "fallback": "",
+          "image_url": "",
+          "thumb_url": "",
+          "mrkdwn_in": [
+            "text",
+            "pretext",
+            "fields"
+          ],
+          "attachment_type": "default"
+        }
       ]
     },
     {
