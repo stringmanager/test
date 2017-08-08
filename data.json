@@ -32,8 +32,9 @@
           "attachment_type": "default",
           "actions": [
             {
-              "id": "e654754c-d896-40b9-bbd5-fd628029412a",
+              "id": "7637f6c0-7cfc-4c80-ab57-a126e7603ca0",
               "title": "Important Button",
+              "type": "button",
               "style": "danger"
             }
           ]
