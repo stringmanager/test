@@ -4,16 +4,6 @@
     {
       "id": "2fd58792-08bb-4947-b995-d424c9d9f875",
       "description": "Test",
-      "strings": [
-        {
-          "variantId": "bdfi",
-          "value": "Hello World"
-        },
-        {
-          "variantId": "rebs",
-          "value": "Another variant"
-        }
-      ],
       "attachments": [
         {
           "id": "f2012d15-923c-4b55-b97c-9b752f40ca46",
@@ -35,13 +25,7 @@
     },
     {
       "id": "be00d383-dd85-47d2-be1f-14ef27f6cdb1",
-      "description": "",
-      "strings": [
-        {
-          "variantId": "asib",
-          "value": "Welcome!"
-        }
-      ]
+      "description": ""
     }
   ]
 }
