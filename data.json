@@ -29,7 +29,14 @@
             "pretext",
             "fields"
           ],
-          "attachment_type": "default"
+          "attachment_type": "default",
+          "actions": [
+            {
+              "id": "e654754c-d896-40b9-bbd5-fd628029412a",
+              "title": "Important Button",
+              "style": "danger"
+            }
+          ]
         }
       ]
     },
