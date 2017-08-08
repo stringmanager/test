@@ -36,6 +36,16 @@
               "title": "Important Button",
               "type": "button",
               "style": "danger"
+            },
+            {
+              "id": "14541955-84ea-4517-bfd4-9d9ba32afba8",
+              "title": "Static Dropdown",
+              "type": "select",
+              "data_source": "static",
+              "options": [
+                "First Option",
+                "Second Option"
+              ]
             }
           ]
         }
